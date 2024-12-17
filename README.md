@@ -36,7 +36,6 @@ I specialize in developing computational pipelines, analyzing multi-omics data, 
 ### 📚 Publications & Projects  
 Explore my work on:  
 - [Google Scholar](https://scholar.google.com/citations?user=zm75iYMAAAAJ&hl=en)  
-- [GitHub](https://github.com/ashoks773)  
 - [LinkedIn](https://www.linkedin.com/in/sharma-ak)  
 - [Website](https://ashoks773.github.io/)
 
