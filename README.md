@@ -6,9 +6,9 @@ I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, providing co
 
 ### 🎓 Education  
 - **Ph.D. in Computational Biology** (2013–2018) – IISER Bhopal  
-  *Thesis: Development of Computational Models for Microbiome-Based Therapeutics*  
+  *Thesis: Development of Computational Models for the analysis of large-scale genomic and metagenomic datasets*  
 - **M.S. in Pharmacoinformatics** (2010–2012) – NIPER Mohali  
-  *Thesis: Designing Glycogen Synthase Kinase-3 Inhibitors*  
+  *Thesis: Modeling and designing Glycogen Synthase Kinase-3 Inhibitors*  
 - **B.Pharm** (2006–2010) – Dr. H.S. Gour University  
 
 ---
