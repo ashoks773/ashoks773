@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!  
+# 👋 Hi, I'm Ashok Kumar Sharma!  
 
 I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, providing computational support to advance translational research in digestive and liver diseases. My work analyzes serology, genetic, and microbiome data, optimizes pipelines, and supports experimental design for impactful clinical insights.  
 
@@ -38,10 +38,11 @@ Explore my work on:
 - [Google Scholar](https://scholar.google.com/citations?user=zm75iYMAAAAJ&hl=en)  
 - [GitHub](https://github.com/ashoks773)  
 - [LinkedIn](https://www.linkedin.com/in/sharma-ak)  
-- [Website]((https://ashoks773.github.io/)
+- [Website](https://ashoks773.github.io/)
 
 ---
 
 ### 🌱 Let's Connect!  
 Feel free to reach out or explore my repositories to learn more about my work and interests. 🚀
+Email: compbiosharma@gmail.com
 
