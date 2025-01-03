@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Ashok Kumar Sharma!  
+Six 130# 👋 Hi, I'm Ashok Kumar Sharma!  
 
-I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, providing computational support to advance translational research in digestive and liver diseases. My work analyzes serology, genetic, and microbiome data, optimizes pipelines, and supports experimental design for impactful clinical insights.  
+I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing in analyzing a wide range of multi-modal datasets to uncover host-microbiome interactions and their role in animal and human health. My work focuses on developing and optimizing computational pipelines, leveraging AI/ML for biomarker discovery, and supporting translational research in digestive and liver diseases.
+
+I am a Bioinformatics Scientist at Cedars-Sinai Medical Center, providing computational support to advance translational research in digestive and liver diseases. My work analyzes serology, genetic, and microbiome data, optimizes pipelines, and supports experimental design for impactful clinical insights.
+
 
 ---
 
@@ -14,8 +17,8 @@ I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, providing co
 ---
 
 ### 💻 Professional Experience  
-- **Bioinformatics Scientist**, Cedars-Sinai (2024–Present)  
-  Leading data analysis and pipeline development for multi-omics research in IBD and translational studies.  
+- **Bioinformatics Scientist**, Cedars-Sinai (2024–Present)
+  Providing computational support for multi-omics data analysis and integration, optimizing pipelines, and guiding experimental design to advance clinical and translational research in digestive and liver diseases. 
 
 - **Scientist II, Computational Biology**, Takeda Pharmaceuticals (2023–2024)  
   Delivered AI/ML-driven safety risk assessments, predictive modeling, and transcriptomic analyses for drug discovery.  
