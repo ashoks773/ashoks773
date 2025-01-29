@@ -43,5 +43,5 @@ Explore my work on:
 
 ### 🌱 Let's Connect!  
 Feel free to reach out or explore my repositories to learn more about my work and interests. 🚀
-Email: compbiosharma@gmail.com
+Email: compbiosharma@gmail.com **or** ashoks773@gmail.com
 
