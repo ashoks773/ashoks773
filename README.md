@@ -14,9 +14,9 @@ I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing
 ---
 
 ### 💻 Professional Experience  
-- **Bioinformatics Scientist**, Cedars-Sinai (2024–Present)
-  Providing computational support for multi-omics data analysis and integration, optimizing pipelines, and guiding experimental design to advance clinical and translational research in digestive and liver diseases. 
-
+- **Bioinformatics Scientist**, Cedars-Sinai (2024–Present)  
+  Providing computational support for multi-omics data analysis and integration, optimizing pipelines, and guiding experimental design to advance clinical and translational research in digestive and liver diseases
+  
 - **Scientist II, Computational Biology**, Takeda Pharmaceuticals (2023–2024)  
   Delivered AI/ML-driven safety risk assessments, predictive modeling, and transcriptomic analyses for drug discovery.  
 
