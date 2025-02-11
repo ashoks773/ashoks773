@@ -4,15 +4,6 @@ I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing
 
 ---
 
-### 🎓 Education  
-- **Ph.D. in Computational Biology** (2013–2018) – IISER Bhopal  
-  *Thesis: Development of Computational Models for the analysis of large-scale genomic and metagenomic datasets*  
-- **M.S. in Pharmacoinformatics** (2010–2012) – NIPER Mohali  
-  *Thesis: Modeling and designing Glycogen Synthase Kinase-3 Inhibitors*  
-- **B.Pharm** (2006–2010) – Dr. H.S. Gour University  
-
----
-
 ### 💻 Professional Experience  
 - **Bioinformatics Scientist**, Cedars-Sinai (2024–Present)  
   Providing computational support for multi-omics data analysis and integration, optimizing pipelines, and guiding experimental design to advance clinical and translational research in digestive and liver diseases
@@ -25,6 +16,17 @@ I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing
 
 - **Postdoctoral Associate**, University of Minnesota (2018–2021)  
   Advanced microbiome-host interaction studies using multi-omics data analysis and integration.  
+
+
+---
+
+### 🎓 Education  
+- **Ph.D. in Computational Biology** (2013–2018) – IISER Bhopal  
+  *Thesis: Development of Computational Models for the analysis of large-scale genomic and metagenomic datasets*  
+- **M.S. in Pharmacoinformatics** (2010–2012) – NIPER Mohali  
+  *Thesis: Modeling and designing Glycogen Synthase Kinase-3 Inhibitors*  
+- **B.Pharm** (2006–2010) – Dr. H.S. Gour University  
+
 
 ---
 
