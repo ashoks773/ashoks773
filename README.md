@@ -27,7 +27,6 @@ I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing
   *Thesis: Modeling and designing Glycogen Synthase Kinase-3 Inhibitors*  
 - **B.Pharm** (2006–2010) – Dr. H.S. Gour University  
 
-
 ---
 
 ### 🔬 Research Interests  
@@ -39,6 +38,7 @@ I am passionate about understanding complex biological systems through innovativ
 - Translational Bioinformatics: Bridging computational biology and clinical research to develop data-driven solutions for personalized medicine and drug discovery.
 
 My work is driven by a commitment to advancing biological knowledge through computational innovation, collaboration, and open science.
+
 ---
 
 ### 📚 Publications & Projects  
