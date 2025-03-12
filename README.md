@@ -3,7 +3,7 @@ Hi, I'm Ashok Kumar Sharma!
 I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing in analyzing a wide range of multi-modal datasets to uncover host-microbiome interactions and their role in animal and human health. My work focuses on developing and optimizing computational pipelines, leveraging AI/ML for biomarker discovery, and supporting translational research in digestive and liver diseases.
 
 ---
-### 🔬 Research Interests  
+### Research Interests  
 I am passionate about understanding complex biological systems through innovative computational approaches. My research focuses on developing and applying advanced bioinformatics tools, pipelines, and AI/ML models to analyze and integrate multi-omics datasets (genomics, transcriptomics, metabolomics, and proteomics) to uncover the molecular mechanisms underlying health and disease. Specifically, I am interested in:
 - Host-Microbiome Interactions: Investigating how microbial communities influence host physiology and contribute to diseases such as inflammatory bowel disease (IBD) and metabolic disorders.
 - Multi-Omics Data Integration: Designing scalable, reproducible pipelines to integrate and analyze diverse omics datasets, enabling biomarker discovery and systems-level insights.
@@ -15,7 +15,7 @@ My work is driven by a commitment to advancing biological knowledge through comp
 
 ---
 
-### 💻 Professional Experience  
+### Professional Experience  
 - **Bioinformatics Scientist**, Cedars-Sinai (2024–Present)  
   Providing computational support for multi-omics data analysis and integration, optimizing pipelines, and guiding experimental design to advance clinical and translational research in digestive and liver diseases
   
@@ -31,7 +31,7 @@ My work is driven by a commitment to advancing biological knowledge through comp
 
 ---
 
-### 🎓 Education  
+### Education  
 - **Ph.D. in Computational Biology** (2013–2018) – IISER Bhopal  
   *Thesis: Development of Computational Models for the analysis of large-scale genomic and metagenomic datasets*  
 - **M.S. in Pharmacoinformatics** (2010–2012) – NIPER Mohali  
@@ -40,7 +40,7 @@ My work is driven by a commitment to advancing biological knowledge through comp
 
 ---
 
-### 📚 Publications & Projects  
+### Publications & Projects  
 Explore my work on:  
 - [Google Scholar](https://scholar.google.com/citations?user=zm75iYMAAAAJ&hl=en)  
 - [LinkedIn](https://www.linkedin.com/in/sharma-ak)  
