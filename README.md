@@ -16,7 +16,7 @@ My work is driven by a commitment to advancing biological knowledge through comp
 ---
 
 ### Professional Experience  
-- **Bioinformatics Scientist**, Cedars-Sinai (2024–Present)  
+- **Bioinformatics Scientist II**, Cedars-Sinai (2024–Present)  
   Providing computational support for multi-omics data analysis and integration, optimizing pipelines, and guiding experimental design to advance clinical and translational research in digestive and liver diseases
   
 - **Scientist II, Computational Biology**, Takeda Pharmaceuticals (2023–2024)  
