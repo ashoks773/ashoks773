@@ -1,4 +1,4 @@
-Hello, My name is Ashok Kumar Sharma and I am a **Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing in analyzing a wide range of multi-modal datasets to uncover host-microbiome interactions and their role in animal and human health. My work focuses on developing and optimizing computational pipelines, leveraging AI/ML for biomarker discovery, and supporting translational research in digestive and liver diseases.
+Hello, My name is Ashok Kumar Sharma and I am a **Senior Bioinformatics Scientist** at Cedars-Sinai Medical Center, specializing in analyzing a wide range of multi-modal datasets to uncover host-microbiome interactions and their role in animal and human health. My work focuses on developing and optimizing computational pipelines, leveraging AI/ML for biomarker discovery, and supporting translational research in digestive and liver diseases.
 
 ---
 ### Research Interests  
